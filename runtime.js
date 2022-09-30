@@ -60,3 +60,5 @@ let resultsInsert = perf.stop();
 console.log('Results for the extraLargeArray');
 console.log("insert", resultsInsert.preciseWords);
 console.log("append", resultsAppend.preciseWords);
+
+//
